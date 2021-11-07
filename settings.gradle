@@ -1,2 +1,6 @@
 
-include 'basic-auth-example', 'form-login-example'
+include 'basic-auth-example',
+        'form-login-example',
+        'custom-jwt-auth-example-1',
+        'custom-jwt-auth-example-2',
+        'custom-jwt-auth-example-3'
